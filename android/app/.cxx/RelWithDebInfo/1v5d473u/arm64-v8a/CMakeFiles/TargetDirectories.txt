@@ -1,0 +1,2 @@
+/Users/apple/StudioProjects/quizzler_copy/android/app/.cxx/RelWithDebInfo/1v5d473u/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/apple/StudioProjects/quizzler_copy/android/app/.cxx/RelWithDebInfo/1v5d473u/arm64-v8a/CMakeFiles/edit_cache.dir

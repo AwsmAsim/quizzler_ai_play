@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148491058747",
+    "project_id": "quizzler-play-ai",
+    "storage_bucket": "quizzler-play-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148491058747:android:95b13467ec3676f2dee61e",
+        "android_client_info": {
+          "package_name": "com.quizzler.quizzler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEAAqpqD8cNpQwfmO3FGBvRP_UANesIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
