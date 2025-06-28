@@ -6,9 +6,9 @@ Welcome to **Quizzler AI Play**, the ultimate AI-powered quiz app designed for t
 
 | Mockup 1 | Mockup 2 | Mockup 3 |
 | :---: | :---: | :---: |
-| <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-1.png" width="200"> | <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-2.png" width="200"> | <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-3.png" width="200"> |
+| <img src="mockups/mockup-1.png" width="200"> | <img src="mockups/mockup-2.png" width="200"> | <img src="mockups/mockup-3.png" width="200"> |
 | Mockup 5 | Mockup 6 | Mockup 7 |
-| <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-5.png" width="200"> | <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-6.png" width="200"> | <img src="/Users/apple/StudioProjects/quizzler_copy/mockups/mockup-7.png" width="200"> |
+| <img src="mockups/mockup-5.png" width="200"> | <img src="mockups/mockup-6.png" width="200"> | <img src="mockups/mockup-7.png" width="200"> |
 
 
 ## ✨ Key Features
