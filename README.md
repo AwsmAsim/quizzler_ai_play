@@ -62,7 +62,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your_username/quizzler_ai_play.git
+    git clone https://github.com/AwsmAsim/quizzler_ai_play.git
     ```
 2.  Install packages
     ```sh
